@@ -11,7 +11,7 @@ DeepNet requires the following Python 3.0 modules:
 - scipy 1.3.0
 - sklearn 1.16.4
 
-### 1. Description of input
+### 1. Input description 
 The input data should meet the following format:
 
 Columns  | Description
@@ -21,7 +21,7 @@ sequence  | 9-mer peptides (e.g. RTFNEDLFR)
 
 ### 2. Implementation
 
-It is noted that the following commands should be implemented under */src/ path. You can implement the code as follows:
+It is noted that the following commands should be implemented under */src/ path. You can implement the code as following:
    ```sh
     python predict.py [inputfile]
    ```
@@ -29,7 +29,7 @@ For example:
    ```sh
     python predict.py ../data/sample.txt
    ```
-  ### 3.Description of output
+  ### 3.Output description
   The output file is shown as */data/result_prediction.txt*. The description of output is shown as follows:
   
   Columns  | Description
