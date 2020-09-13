@@ -9,6 +9,7 @@ DeepNet requires the following Python 3.0 modules:
 - pandas 0.24.2
 - keras 2.2.4
 - scipy 1.3.0
+- sklearn 1.16.4
 
 ### 1. Description of input
 The input data should meet the following format:
