@@ -1,4 +1,4 @@
-# DeepNeBim
+# DeepNetBim
 *DeepNetBim*: *Deep* learning model for predicting HLA-epitope interaction based on *Net* work analysis by harnessing *B*inding and *im*munogenicity information
 
 In DeepNetBim model, both binding intensity of HLA-peptide pairs and potential immunogenicity of epitopes which are capable of eliciting CD8+ T cell responses were considered. In addition, to improve model accuracy, network centrality metrics were extracted through network construction which proved to possess sufficient prediction power in comparison. Extensive tests on independent and benchmark datasets demonstrate that DeepNetBim can significantly outperform other well-known binding prediction tools. 
