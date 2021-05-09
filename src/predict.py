@@ -8,7 +8,6 @@ from keras.utils.np_utils import to_categorical
 from keras.models import load_model
 from MyEncode import blo_encode_920
 from Closest_pep_net import closest_pep_net,mhc_net
-from Model_ import ModelTrain
 from Net_Dict_all import MHC_Net_Dict,Pep_Net_Dict
 import sys
 
