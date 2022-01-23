@@ -41,5 +41,3 @@ pred_immuno | the predicted immunogenic potential ( binary)
 immuno_probability| the predicted immunogenic probability (continuous)
 
 
-
-**If you have problems using DeepNetBim, please contact jing.li@sjtu.edu.cn**
